@@ -1,0 +1,27 @@
+[
+{
+    "category": "Groceries",
+    "total_cost": 26.39,
+    "month": "Feb"
+},
+{
+    "category": "Groceries",
+    "total_cost": 29.0,
+    "month": "Jul"
+},
+{
+    "category": "Other",
+    "total_cost": 309.0,
+    "month": "Jul"
+},
+{
+    "category": "Food",
+    "total_cost": 13.7,
+    "month": "Feb"
+},
+{
+    "category": "Shopping",
+    "total_cost": 500.25,
+    "month": "Feb"
+}
+]
